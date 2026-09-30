@@ -1,0 +1,850 @@
+                                                  RAZÓN SOCIAL            COMPAÑIA DE AUTOMATIZACION INDUSTRIAL EUROINSTRUMENTS INGENIERIA
+
+                                                  DIRECCIÓN               AV. EUGENIO ESPEJO Y RINCON DEL VALLE No. N24-10 BARRIO: MIRAVALLE
+
+                                                  EXPEDIENTE              163112
+
+                                                  RUC                     1792209366001
+
+                                                  AÑO                     2024
+
+                                                  FORMULARIO              SCV.NIIF.163112.2024.1
+
+FECHA DE LA JUNTA QUE APROBÓ LOS ESTADOS FINANCIEROS (DD/MM/AAA)          04/04/2025
+
+                                                        ESTADO DE SITUACIÓN FINANCIERA
+                                               CUENTA                                                           CÓDIGO                 VALOR (En USD$)
+
+ACTIVO                                                                                                                          1                1983344.32
+
+ACTIVO CORRIENTE                                                                                                              101                1869795.44
+
+EFECTIVO Y EQUIVALENTES DE EFECTIVO                                                                                         10101                  57020.32
+
+CAJA                                                                                                                      1010101                  57020.32
+
+INSTITUCIONES FINANCIERAS PÚBLICAS                                                                                        1010102                        0.00
+
+INSTITUCIONES FINANCIERAS PRIVADAS                                                                                        1010103                        0.00
+
+ACTIVOS FINANCIEROS                                                                                                         10102                1025910.58
+
+ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS                                                           1010201                 402774.17
+
+RENTA VARIABLE                                                                                                           101020101                       0.00
+
+ACCIONES Y PARTICIPACIONES                                                                                            10102010101                        0.00
+
+CUOTAS DE FONDOS COLECTIVOS                                                                                           10102010102                        0.00
+
+VALORES DE TITULARIZACIÓN DE PARTICIPACIÓN                                                                            10102010103                        0.00
+
+UNIDADES DE PARTICIPACIÓN                                                                                             10102010104                        0.00
+
+INVERSIONES EN EL EXTERIOR                                                                                            10102010105                        0.00
+
+OTROS                                                                                                                 10102010106                        0.00
+
+RENTA FIJA                                                                                                               101020102                402774.17
+
+AVALES                                                                                                                10102010201                        0.00
+
+BONOS DEL ESTADO                                                                                                      10102010202                        0.00
+
+BONOS DE PRENDA                                                                                                       10102010203                        0.00
+
+CÉDULAS HIPOTECARIAS                                                                                                  10102010204                        0.00
+
+CERTIFICADOS FINANCIEROS                                                                                              10102010205                        0.00
+
+CERTIFICADOS DE INVERSIÓN                                                                                             10102010206                        0.00
+
+CERTIFICADOS DE TESORERÍA                                                                                             10102010207                        0.00
+
+CERTIFICADOS DE DEPÓSITO                                                                                              10102010208                        0.00
+
+CUPONES                                                                                                               10102010209                        0.00
+
+DEPÓSITOS A PLAZO                                                                                                     10102010210                 402774.17
+
+LETRAS DE CAMBIO                                                                                                      10102010211                        0.00
+
+NOTAS DE CRÉDITO                                                                                                      10102010212                        0.00
+
+OBLIGACIONES                                                                                                          10102010213                        0.00
+
+FACTURAS COMERCIALES NEGOCIABLES                                                                                      10102010214                        0.00
+
+OVERNIGHTS                                                                                                            10102010215                        0.00
+
+OBLIGACIONES CONVERTIBLES EN ACCIONES                                                                                 10102010216                        0.00
+
+PAPEL COMERCIAL                                                                                                       10102010217                        0.00
+
+PAGARÉS                                                                                                               10102010218                        0.00
+
+PÓLIZAS DE ACUMULACIÓN                                                                                                10102010219                        0.00
+
+TÍTULOS DEL BANCO CENTRAL                                                                                             10102010220                        0.00
+
+VALORES DE TITULARIZACIÓN                                                                                             10102010221                        0.00
+
+INVERSIONES EN EL EXTERIOR                                                                                            10102010222                        0.00
+
+OTROS                                                                                                                 10102010223                        0.00
+
+DERIVADOS                                                                                                                101020103                       0.00
+
+FORWARD                                                                                                               10102010301                        0.00
+
+FUTUROS                                                                                                               10102010302                        0.00
+
+OPCIONES                                                                                                              10102010303                        0.00
+
+OTROS                                                                                                                 10102010304                        0.00
+
+ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL                                              1010202                        0.00
+
+RENTA VARIABLE                                                                                                           101020201                       0.00
+
+ACCIONES Y PARTICIPACIONES                                                                                            10102020101                        0.00
+
+CUOTAS DE FONDOS COLECTIVOS                                                                                           10102020102                        0.00
+                                                          ESTADO DE SITUACIÓN FINANCIERA
+                                                 CUENTA                                    CÓDIGO               VALOR (En USD$)
+
+UNIDADES DE PARTICIPACIÓN                                                                      10102020103                        0.00
+
+VALORES DE TITULARIZACIÓN DE PARTICIPACIÓN                                                     10102020104                        0.00
+
+INVERSIONES EN EL EXTERIOR                                                                     10102020105                        0.00
+
+OTROS                                                                                          10102020106                        0.00
+
+RENTA FIJA                                                                                          101020202                     0.00
+
+AVALES                                                                                         10102020201                        0.00
+
+BONOS DEL ESTADO                                                                               10102020202                        0.00
+
+BONOS DE PRENDA                                                                                10102020203                        0.00
+
+CÉDULAS HIPOTECARIAS                                                                           10102020204                        0.00
+
+CERTIFICADOS FINANCIEROS                                                                       10102020205                        0.00
+
+CERTIFICADOS DE INVERSIÓN                                                                      10102020206                        0.00
+
+CERTIFICADOS DE TESORERÍA                                                                      10102020207                        0.00
+
+CERTIFICADOS DE DEPÓSITO                                                                       10102020208                        0.00
+
+CUPONES                                                                                        10102020209                        0.00
+
+DEPÓSITOS A PLAZO                                                                              10102020210                        0.00
+
+LETRAS DE CAMBIO                                                                               10102020211                        0.00
+
+NOTAS DE CRÉDITO                                                                               10102020212                        0.00
+
+OBLIGACIONES                                                                                   10102020213                        0.00
+
+FACTURAS COMERCIALES NEGOCIABLES                                                               10102020214                        0.00
+
+OVERNIGHTS                                                                                     10102020215                        0.00
+
+OBLIGACIONES CONVERTIBLES EN ACCIONES                                                          10102020216                        0.00
+
+PAPEL COMERCIAL                                                                                10102020217                        0.00
+
+PAGARÉS                                                                                        10102020218                        0.00
+
+PÓLIZAS DE ACUMULACIÓN                                                                         10102020219                        0.00
+
+TÍTULOS DEL BANCO CENTRAL                                                                      10102020220                        0.00
+
+VALORES DE TITULARIZACIÓN                                                                      10102020221                        0.00
+
+INVERSIONES EN EL EXTERIOR                                                                     10102020222                        0.00
+
+OTROS                                                                                          10102020223                        0.00
+
+ACTIVOS FINANCIEROS AL COSTO AMORTIZADO                                                              1010203                      0.00
+
+RENTA FIJA                                                                                          101020302                     0.00
+
+AVALES                                                                                         10102030201                        0.00
+
+BONOS DEL ESTADO                                                                               10102030202                        0.00
+
+BONOS DE PRENDA                                                                                10102030203                        0.00
+
+CÉDULAS HIPOTECARIAS                                                                           10102030204                        0.00
+
+CERTIFICADOS FINANCIEROS                                                                       10102030205                        0.00
+
+CERTIFICADOS DE INVERSIÓN                                                                      10102030206                        0.00
+
+CERTIFICADOS DE TESORERÍA                                                                      10102030207                        0.00
+
+CERTIFICADOS DE DEPÓSITO                                                                       10102030208                        0.00
+
+CUPONES                                                                                        10102030209                        0.00
+
+DEPÓSITOS A PLAZO                                                                              10102030210                        0.00
+
+LETRAS DE CAMBIO                                                                               10102030211                        0.00
+
+NOTAS DE CRÉDITO                                                                               10102030212                        0.00
+
+OBLIGACIONES                                                                                   10102030213                        0.00
+
+FACTURAS COMERCIALES NEGOCIABLES                                                               10102030214                        0.00
+
+OVERNIGHTS                                                                                     10102030215                        0.00
+
+OBLIGACIONES CONVERTIBLES EN ACCIONES                                                          10102030216                        0.00
+
+PAPEL COMERCIAL                                                                                10102030217                        0.00
+
+PAGARÉS                                                                                        10102030218                        0.00
+
+PÓLIZAS DE ACUMULACIÓN                                                                         10102030219                        0.00
+
+TÍTULOS DEL BANCO CENTRAL                                                                      10102030220                        0.00
+
+VALORES DE TITULARIZACIÓN                                                                      10102030221                        0.00
+
+INVERSIONES EN EL EXTERIOR                                                                     10102030222                        0.00
+
+OTROS                                                                                          10102030223                        0.00
+
+PROVISIÓN POR DETERIORO DE ACTIVOS FINANCIEROS                                                       1010204                      0.00
+
+ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS                                     101020401                     0.00
+                                                             ESTADO DE SITUACIÓN FINANCIERA
+                                                    CUENTA                                    CÓDIGO               VALOR (En USD$)
+
+ACTIVOS FINANCIEROS AL COSTO AMORTIZADO                                                                101020402                     0.00
+
+ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL                           101020403                     0.00
+
+DEUDORES COMERCIALES Y OTRAS CUENTAS POR COBRAR NO RELACIONADOS                                         1010205                622687.9
+
+DE ACTIVIDADES ORDINARIAS QUE GENEREN INTERESES                                                        101020501                     0.00
+
+CUENTAS Y DOCUMENTOS A COBRAR A CLIENTES                                                          10102050101                        0.00
+
+CUENTAS Y DOCUMENTOS A COBRAR A TERCEROS                                                          10102050102                        0.00
+
+DE ACTIVIDADES ORDINARIAS QUE NO GENEREN INTERESES                                                     101020502               622687.9
+
+CUENTAS Y DOCUMENTOS A COBRAR A CLIENTES                                                          10102050201                 612415.34
+
+CUENTAS Y DOCUMENTOS A COBRAR A TERCEROS                                                          10102050202                        0.00
+
+CUENTAS POR COBRAR AL ORIGINADOR                                                                  10102050203                        0.00
+
+COMISIONES POR OPERACIONES BURSÁTILES                                                             10102050204                        0.00
+
+CONTRATO DE UNDERWRITING                                                                          10102050207                        0.00
+
+POR ADMINISTRACIÓN Y MANEJO DE PORTAFOLIOS DE TERCEROS                                            10102050208                        0.00
+
+POR ADMINISTRACIÓN Y MANEJO DE FONDOS ADMINISTRADOS                                               10102050209                        0.00
+
+POR ADMINISTRACIÓN Y MANEJO DE NEGOCIOS FIDUCIARIOS                                               10102050210                        0.00
+
+POR CUSTODIA Y CONSERVACIÓN DE VALORES MATERIALIZADOS                                             10102050211                        0.00
+
+POR CUSTODIA Y CONSERVACIÓN DE VALORES DESMATERIALIZADOS                                          10102050212                        0.00
+
+POR MANEJO DE LIBRO DE ACCIONES Y ACCIONISTAS                                                     10102050213                        0.00
+
+POR ASESORÍA                                                                                      10102050214                        0.00
+
+DIVIDENDOS POR COBRAR                                                                             10102050215                        0.00
+
+INTERESES POR COBRAR                                                                              10102050216                        0.00
+
+DEUDORES POR INTERMEDIACIÓN DE VALORES                                                            10102050217                        0.00
+
+ANTICIPO A COMITENTES                                                                             10102050218                        0.00
+
+ANTICIPO A CONSTRUCTOR POR AVANCE DE OBRA                                                         10102050219                        0.00
+
+DERECHOS POR COMPROMISO DE RECOMPRA                                                               10102050220                        0.00
+
+OTRAS CUENTAS POR COBRAR NO RELACIONADAS                                                          10102050221                  10272.56
+
+DOCUMENTOS Y CUENTAS POR COBRAR RELACIONADOS                                                            1010206                  448.51
+
+POR COBRAR A ACCIONISTAS                                                                               101020601                 448.51
+
+POR COBRAR A COMPAÑÍAS RELACIONADAS                                                                    101020602                     0.00
+
+POR COBRAR A CLIENTES                                                                                  101020603                     0.00
+
+OTRAS CUENTAS POR COBRAR RELACIONADAS                                                                  101020604                     0.00
+
+PROVISIÓN POR CUENTAS INCOBRABLES Y DETERIORO                                                           1010207                      0.00
+
+INVENTARIOS                                                                                               10103               490223.65
+
+INVENTARIOS DE MATERIA PRIMA                                                                            1010301                      0.00
+
+INVENTARIOS DE PRODUCTOS EN PROCESO                                                                     1010302                      0.00
+
+INVENTARIOS DE SUMINISTROS O MATERIALES A SER CONSUMIDOS EN EL PROCESO DE PRODUCCION                    1010303                      0.00
+
+INVENTARIOS DE SUMINISTROS O MATERIALES A SER CONSUMIDOS EN LA PRESTACION DEL SERVICIO                  1010304                      0.00
+
+INVENTARIOS DE PROD. TERM. Y MERCAD. EN ALMACÉN - PRODUCIDO POR LA COMPAÑÍA                             1010305               334337.58
+
+INVENTARIOS DE PROD. TERM. Y MERCAD. EN ALMACÉN - COMPRADO A TERCEROS                                   1010306                      0.00
+
+MERCADERÍAS EN TRÁNSITO                                                                                 1010307               155886.07
+
+OBRAS EN CONSTRUCCION                                                                                   1010308                      0.00
+
+OBRAS TERMINADAS                                                                                        1010309                      0.00
+
+MATERIALES O BIENES PARA LA CONSTRUCCION                                                                1010310                      0.00
+
+INVENTARIOS REPUESTOS, HERRAMIENTAS Y ACCESORIOS                                                        1010311                      0.00
+
+OTROS INVENTARIOS                                                                                       1010312                      0.00
+
+(-) PROVISIÓN POR VALOR NETO DE REALIZACIÓN Y OTRAS PERDIDAS EN INVENTARIO                              1010313                      0.00
+
+SERVICIOS Y OTROS PAGOS ANTICIPADOS                                                                       10104                      0.00
+
+SEGUROS PAGADOS POR ANTICIPADO                                                                          1010401                      0.00
+
+ARRIENDOS PAGADOS POR ANTICIPADO                                                                        1010402                      0.00
+
+ANTICIPOS A PROVEEDORES                                                                                 1010403                      0.00
+
+OTROS ANTICIPOS ENTREGADOS                                                                              1010404                      0.00
+
+ACTIVOS POR IMPUESTOS CORRIENTES                                                                          10105               296640.89
+
+CRÉDITO TRIBUTARIO A FAVOR DE LA EMPRESA (IVA)                                                          1010501                      0.00
+
+CRÉDITO TRIBUTARIO A FAVOR DE LA EMPRESA ( I. R.)                                                       1010502               296640.89
+
+ANTICIPO DE IMPUESTO A LA RENTA                                                                         1010503                      0.00
+                                                            ESTADO DE SITUACIÓN FINANCIERA
+                                                   CUENTA                                            CÓDIGO               VALOR (En USD$)
+
+ACTIVOS CORRIENTES MANTENIDOS PARA LA VENTA Y OPERACIONES DISCONTINUADAS                                         10106                      0.00
+
+CONSTRUCCIONES EN PROCESO (NIC 11 Y SECC.23 PYMES)                                                               10107                      0.00
+
+OTROS ACTIVOS CORRIENTES                                                                                         10108                      0.00
+
+ACTIVOS NO CORRIENTES                                                                                              102               113548.88
+
+PROPIEDAD, PLANTA Y EQUIPO                                                                                       10201               108648.95
+
+TERRENOS                                                                                                       1020101                      0.00
+
+EDIFICIOS                                                                                                      1020102                      0.00
+
+CONSTRUCCIONES EN CURSO                                                                                        1020103                      0.00
+
+INSTALACIONES                                                                                                  1020104                      0.00
+
+MUEBLES Y ENSERES                                                                                              1020105                21578.28
+
+MAQUINARIA Y EQUIPO                                                                                            1020106                 19606.7
+
+NAVES, AEREONAVES, BARCAZAS Y SIMILARES                                                                        1020107                      0.00
+
+EQUIPO DE COMPUTACIÓN                                                                                          1020108                 4358.94
+
+VEHÍCULOS, EQUIPOS DE TRASPORTE Y EQUIPO CAMINERO MÓVIL                                                        1020109                  133985
+
+OTROS PROPIEDADES, PLANTA Y EQUIPO                                                                             1020110                      0.00
+
+REPUESTOS Y HERRAMIENTAS                                                                                       1020111                      0.00
+
+(-) DEPRECIACIÓN ACUMULADA PROPIEDADES, PLANTA Y EQUIPO                                                        1020112                -70879.97
+
+(-) DETERIORO ACUMULADO DE PROPIEDADES, PLANTA Y EQUIPO                                                        1020113                      0.00
+
+ACTIVOS DE EXPLORACION Y EXPLOTACION                                                                           1020114                      0.00
+
+ACTIVOS DE EXPLORACION Y EXPLOTACION                                                                          102011401                     0.00
+
+(-) AMORTIZACION ACUMULADA DE ACTIVOS DE EXPLORACIÓN Y EXPLOTACIÓN                                            102011402                     0.00
+
+(-) DETERIORO ACUMULADO DE ACTIVOS DE EXPLORACIÓN Y EXPLOTACIÓN                                               102011403                     0.00
+
+PROPIEDADES DE INVERSIÓN                                                                                         10202                      0.00
+
+TERRENOS                                                                                                       1020201                      0.00
+
+TERRENOS                                                                                                      102020101                     0.00
+
+DERECHOS DE USO SOBRE TERRENOS SUBARRENDADOS                                                                  102020102                     0.00
+
+EDIFICIOS                                                                                                      1020202                      0.00
+
+EDIFICIOS                                                                                                     102020201                     0.00
+
+DERECHOS DE USO SOBRE EDIFICIOS SUBARRENDADOS                                                                 102020202                     0.00
+
+(-) DEPRECIACION ACUMULADA DE PROPIEDADES DE INVERSIÓN                                                         1020203                      0.00
+
+(-) DETERIORO ACUMULADO DE PROPIEDADES DE INVERSIÓN                                                            1020204                      0.00
+
+ACTIVOS BIOLOGICOS                                                                                               10203                      0.00
+
+ANIMALES VIVOS EN CRECIMIENTO                                                                                  1020301                      0.00
+
+ANIMALES VIVOS EN PRODUCCION                                                                                   1020302                      0.00
+
+PLANTAS EN CRECIMIENTO                                                                                         1020303                      0.00
+
+PLANTAS EN PRODUCCION                                                                                          1020304                      0.00
+
+(-) DEPRECIACION ACUMULADA DE ACTIVOS BIOLÓGICOS                                                               1020305                      0.00
+
+(-) DETERIORO ACUMULADO DE ACTIVOS BIOLOGÍCOS                                                                  1020306                      0.00
+
+ACTIVO INTANGIBLE                                                                                                10204                 4899.93
+
+PLUSVALÍAS                                                                                                     1020401                      0.00
+
+MARCAS, PATENTES, DERECHOS DE LLAVE , CUOTAS PATRIMONIALES Y OTROS SIMILARES                                   1020402                51326.03
+
+CONCESIONES Y LICENCIAS                                                                                        1020403                      0.00
+
+ACTIVOS DE EXPLORACION Y EXPLOTACION                                                                           1020404                      0.00
+
+(-) AMORTIZACIÓN ACUMULADA DE ACTIVOS INTANGIBLE                                                               1020405                 -46426.1
+
+(-) DETERIORO ACUMULADO DE ACTIVO INTANGIBLE                                                                   1020406                      0.00
+
+OTROS INTANGIBLES                                                                                              1020407                      0.00
+
+ACTIVOS POR IMPUESTOS DIFERIDOS                                                                                  10205                      0.00
+
+ACTIVOS FINANCIEROS NO CORRIENTES                                                                                10206                      0.00
+
+ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL                                   1020601                      0.00
+
+(-) PROVISION POR DETERIORO DE ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO             1020602                      0.00
+
+ACTIVOS FINANCIEROS A COSTO AMORTIZADO                                                                         1020603                      0.00
+
+(-) PROVISIÓN POR DETERIORO DE ACTIVOS FINANCIEROS A COSTO AMORTIZADO                                          1020604                      0.00
+
+ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS                                                1020605                      0.00
+
+(-)PROVISIÓN POR DETERIORO DE ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS                  1020606                      0.00
+
+DERECHO DE USO POR ACTIVOS ARRENDADOS                                                                            10207                      0.00
+                                                         ESTADO DE SITUACIÓN FINANCIERA
+                                                CUENTA                                    CÓDIGO               VALOR (En USD$)
+
+(-) DEPRECIACIÓN ACUMULADA DE ACTIVOS PROVENIENTES POR DERECHOS DE USO                              1020701                      0.00
+
+(-) DETERIORO ACUMULADO DE ACTIVOS PROVENIENTES POR DERECHOS DE USO                                 1020702                      0.00
+
+DERECHO DE USO POR ACTIVOS ARRENDADOS                                                               1020703                      0.00
+
+OTROS ACTIVOS NO CORRIENTES                                                                           10208                      0.00
+
+DERECHOS FIDUCIARIOS                                                                                1020801                      0.00
+
+DEPÓSITOS EN GARANTÍA                                                                               1020802                      0.00
+
+DEPÓSITOS EN GARANTÍA POR OPERACIONES BURSÁTILES                                                    1020803                      0.00
+
+ACCIONES DEL DEPÓSITO CENTRALIZADO DE VALORES                                                       1020805                      0.00
+
+INVERSIONES SUBSIDIARIAS                                                                            1020806                      0.00
+
+INVERSIONES ASOCIADAS                                                                               1020807                      0.00
+
+INVERSIONES NEGOCIOS CONJUNTOS                                                                      1020808                      0.00
+
+OTRAS INVERSIONES                                                                                   1020809                      0.00
+
+(-) PROVISIÓN VALUACIÓN DE INVERSIONES                                                              1020810                      0.00
+
+OTROS ACTIVOS NO CORRIENTES                                                                         1020811                      0.00
+
+DOCUMENTOS Y CUENTAS POR COBRAR NO RELACIONADOS                                                       10209                      0.00
+
+CUENTAS Y DOCUMENTOS A COBRAR A CLIENTES                                                            1020901                      0.00
+
+CUENTAS Y DOCUMENTOS A COBRAR A TERCEROS                                                            1020902                      0.00
+
+OTRAS CUENTAS POR COBRAR NO RELACIONADAS                                                            1020903                      0.00
+
+DOCUMENTOS Y CUENTAS POR COBRAR RELACIONADOS                                                          10210                      0.00
+
+POR COBRAR A ACCIONISTAS                                                                            1021001                      0.00
+
+POR COBRAR A COMPAÑÍAS RELACIONADAS                                                                 1021002                      0.00
+
+POR COBRAR A CLIENTES                                                                               1021003                      0.00
+
+OTRAS CUENTAS POR COBRAR RELACIONADAS                                                               1021004                      0.00
+
+PASIVO                                                                                                    2              1110940.02
+
+PASIVO CORRIENTE                                                                                        201                926438.9
+
+PASIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN RESULTADOS                                       20101                      0.00
+
+PASIVOS POR CONTRATOS DE ARRENDAMIENTO                                                                20102                      0.00
+
+CUENTAS Y DOCUMENTOS POR PAGAR                                                                        20103               532669.32
+
+LOCALES                                                                                             2010301                30496.24
+
+PRÉSTAMOS                                                                                          201030101                     0.00
+
+PROVEEDORES                                                                                        201030102                6635.13
+
+OTRAS                                                                                              201030103               23861.11
+
+DEL EXTERIOR                                                                                        2010302               502173.08
+
+PRÉSTAMOS                                                                                          201030201                     0.00
+
+PROVEEDORES                                                                                        201030202              502173.08
+
+OTRAS                                                                                              201030203                     0.00
+
+OBLIGACIONES CON INSTITUCIONES FINANCIERAS                                                            20104                      0.00
+
+LOCALES                                                                                             2010401                      0.00
+
+DEL EXTERIOR                                                                                        2010402                      0.00
+
+PROVISIONES                                                                                           20105                15826.67
+
+LOCALES                                                                                             2010501                15826.67
+
+DEL EXTERIOR                                                                                        2010502                      0.00
+
+PORCIÓN CORRIENTE DE VALORES EMITIDOS                                                                 20106                      0.00
+
+OBLIGACIONES                                                                                        2010601                      0.00
+
+PAPEL COMERCIAL                                                                                     2010602                      0.00
+
+VALORES DE TITULARIZACIÓN                                                                           2010603                      0.00
+
+OTROS                                                                                               2010604                      0.00
+
+INTERESES POR PAGAR                                                                                 2010605                      0.00
+
+OTRAS OBLIGACIONES CORRIENTES                                                                         20107               282955.17
+
+CON LA ADMINISTRACIÓN TRIBUTARIA                                                                    2010701                      0.00
+
+IMPUESTO A LA RENTA POR PAGAR DEL EJERCICIO                                                         2010702               157183.45
+
+CON EL IESS                                                                                         2010703                20383.39
+
+POR BENEFICIOS DE LEY A EMPLEADOS                                                                   2010704                      0.00
+
+PARTICIPACIÓN TRABAJADORES POR PAGAR DEL EJERCICIO                                                  2010705               105388.33
+
+DIVIDENDOS POR PAGAR                                                                                2010706                      0.00
+                                                       ESTADO DE SITUACIÓN FINANCIERA
+                                              CUENTA                                        CÓDIGO               VALOR (En USD$)
+
+OTROS                                                                                                 2010707                      0.00
+
+CUENTAS POR PAGAR A RELACIONADAS                                                                        20108                      0.00
+
+LOCALES                                                                                               2010801                      0.00
+
+PRÉSTAMOS DE ACCIONISTAS                                                                             201080101                     0.00
+
+PRÉSTAMOS DE COMPAÑÍAS RELACIONADAS                                                                  201080102                     0.00
+
+PROVEEDORES                                                                                          201080103                     0.00
+
+OTROS                                                                                                201080104                     0.00
+
+DEL EXTERIOR                                                                                          2010802                      0.00
+
+PRÉSTAMOS DE ACCIONISTAS                                                                             201080201                     0.00
+
+PRÉSTAMOS DE COMPAÑÍAS RELACIONADAS                                                                  201080202                     0.00
+
+PROVEEDORES                                                                                          201080203                     0.00
+
+OTROS                                                                                                201080204                     0.00
+
+OTROS PASIVOS FINANCIEROS                                                                               20109                      0.00
+
+ANTICIPOS                                                                                               20110                82516.57
+
+ANTICIPOS DE CLIENTES                                                                                 2011001                82516.57
+
+OTROS ANTICIPOS RECIBIDOS                                                                             2011002                      0.00
+
+PASIVOS DIRECTAMENTE ASOCIADOS CON LOS ACTIVOS NO CORRIENTES Y OPERACIONES DISCONTINUADAS               20111                      0.00
+
+PORCION CORRIENTE DE PROVISIONES POR BENEFICIOS A EMPLEADOS                                             20112                12471.17
+
+JUBILACION PATRONAL                                                                                   2011201                      0.00
+
+OTROS BENEFICIOS PARA LOS EMPLEADOS                                                                   2011202                12471.17
+
+OTROS PASIVOS CORRIENTES                                                                                20113                      0.00
+
+COMISIONES POR PAGAR                                                                                  2011301                      0.00
+
+POR OPERACIONES BURSÁTILES                                                                            2011302                      0.00
+
+POR CUSTODIA                                                                                          2011303                      0.00
+
+POR ADMINISTRACIÓN                                                                                    2011304                      0.00
+
+OTRAS COMISIONES                                                                                      2011305                      0.00
+
+SANCIONES Y MULTAS                                                                                    2011306                      0.00
+
+INDEMNIZACIONES                                                                                       2011307                      0.00
+
+OBLIGACIONES JUDICIALES                                                                               2011308                      0.00
+
+ACREEDORES POR INTERMEDIACIÓN                                                                         2011309                      0.00
+
+OBLIGACIÓN POR COMPROMISO DE RECOMPRA                                                                 2011310                      0.00
+
+POR CONTRATOS DE UNDERWRITING                                                                         2011311                      0.00
+
+OTROS                                                                                                 2011312                      0.00
+
+PASIVOS FINANCIEROS AL COSTO AMORTIZADO                                                                 20114                      0.00
+
+PASIVO NO CORRIENTE                                                                                       202               184501.12
+
+PASIVOS POR CONTRATOS DE ARRENDAMIENTO                                                                  20201                      0.00
+
+CUENTAS Y DOCUMENTOS POR PAGAR                                                                          20202                      0.00
+
+LOCALES                                                                                               2020201                      0.00
+
+PRÉSTAMOS                                                                                            202020101                     0.00
+
+PROVEEDORES                                                                                          202020102                     0.00
+
+OTRAS                                                                                                202020103                     0.00
+
+DEL EXTERIOR                                                                                          2020202                      0.00
+
+PRÉSTAMOS                                                                                            202020201                     0.00
+
+PROVEEDORES                                                                                          202020202                     0.00
+
+OTRAS                                                                                                202020203                     0.00
+
+OBLIGACIONES CON INSTITUCIONES FINANCIERAS                                                              20203                      0.00
+
+LOCALES                                                                                               2020301                      0.00
+
+DEL EXTERIOR                                                                                          2020302                      0.00
+
+CUENTAS POR PAGAR A RELACIONADAS                                                                        20204                      0.00
+
+LOCALES                                                                                               2020401                      0.00
+
+PRÉSTAMOS DE ACCIONISTAS                                                                             202040101                     0.00
+
+PRÉSTAMOS DE COMPAÑÍAS RELACIONADAS                                                                  202040102                     0.00
+
+PROVEEDORES                                                                                          202040103                     0.00
+
+OTROS                                                                                                202040104                     0.00
+
+DEL EXTERIOR                                                                                          2020402                      0.00
+                                                         ESTADO DE SITUACIÓN FINANCIERA
+                                                CUENTA                                      CÓDIGO               VALOR (En USD$)
+
+PRÉSTAMOS DE ACCIONISTAS                                                                             202040201                     0.00
+
+PRÉSTAMOS DE COMPAÑÍAS RELACIONADAS                                                                  202040202                     0.00
+
+PROVEEDORES                                                                                          202040203                     0.00
+
+OTROS                                                                                                202040204                     0.00
+
+PORCIÓN NO CORRIENTE DE VALORES EMITIDOS                                                                20205                      0.00
+
+OBLIGACIONES                                                                                          2020501                      0.00
+
+PAPEL COMERCIAL                                                                                       2020502                      0.00
+
+VALORES DE TITULARIZACIÓN                                                                             2020503                      0.00
+
+OTROS                                                                                                 2020504                      0.00
+
+INTERESES POR PAGAR                                                                                   2020505                      0.00
+
+ANTICIPOS                                                                                               20206                      0.00
+
+ANTICIPOS DE CLIENTES                                                                                 2020601                      0.00
+
+OTROS ANTICIPOS RECIBIDOS                                                                             2020602                      0.00
+
+PROVISIONES POR BENEFICIOS A EMPLEADOS                                                                  20207               184501.12
+
+JUBILACION PATRONAL                                                                                   2020701                96519.79
+
+OTROS BENEFICIOS NO CORRIENTES PARA LOS EMPLEADOS                                                     2020702                87981.33
+
+OTRAS PROVISIONES                                                                                       20208                      0.00
+
+PASIVO DIFERIDO                                                                                         20209                      0.00
+
+INGRESOS DIFERIDOS                                                                                    2020901                      0.00
+
+PASIVOS POR IMPUESTOS DIFERIDOS                                                                       2020902                      0.00
+
+OTROS PASIVOS NO CORRIENTES                                                                             20210                      0.00
+
+PATRIMONIO NETO                                                                                             3                872404.3
+
+PATRIMONIO NETO ATRIBUIBLE A LOS PROPIETARIOS DE LA CONTROLADORA                                           30                872404.3
+
+CAPITAL                                                                                                   301                      400
+
+CAPITAL SUSCRITO O ASIGNADO                                                                             30101                      400
+
+(-) CAPITAL SUSCRITO NO PAGADO, ACCIONES EN TESORERÍA                                                   30102                      0.00
+
+FONDO PATRIMONIAL                                                                                       30103                      0.00
+
+PATRIMONIO DE LOS NEGOCIOS FIDUCIARIOS                                                                  30104                      0.00
+
+PATRIMONIO DE LOS FONDOS DE INVERSIÓN                                                                   30105                      0.00
+
+PATRIMONIO DEL FONDO ADMINISTRADO                                                                     3010501                      0.00
+
+PATRIMONIO DEL FONDO COLECTIVO                                                                        3010502                      0.00
+
+APORTES DE SOCIOS O ACCIONISTAS PARA FUTURA CAPITALIZACIÓN                                                302                      0.00
+
+PRIMA POR EMISIÓN PRIMARIA DE ACCIONES                                                                    303                      0.00
+
+RESERVAS                                                                                                  304                77513.61
+
+RESERVA LEGAL                                                                                           30401                77513.61
+
+RESERVAS FACULTATIVA Y ESTATUTARIA                                                                      30402                      0.00
+
+OTROS RESULTADOS INTEGRALES                                                                               305                      0.00
+
+SUPERAVIT DE ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIOS EN OTRO RESULTADO INTEGRAL               30501                      0.00
+
+SUPERAVIT POR REVALUACIÓN DE PROPIEDADES, PLANTA Y EQUIPO                                               30502                      0.00
+
+SUPERAVIT POR REVALUACION DE ACTIVOS INTANGIBLES                                                        30503                      0.00
+
+OTROS SUPERAVIT POR REVALUACION                                                                         30504                      0.00
+
+RESULTADOS ACUMULADOS                                                                                     306                354473.6
+
+GANANCIAS ACUMULADAS                                                                                    30601               304098.27
+
+(-) PÉRDIDAS ACUMULADAS                                                                                 30602                      0.00
+
+RESULTADOS ACUMULADOS PROVENIENTES DE LA ADOPCION POR PRIMERA VEZ DE LAS NIIF                           30603                 -1141.27
+
+RESERVA DE CAPITAL                                                                                      30604                      0.00
+
+RESERVA POR DONACIONES                                                                                  30605                      0.00
+
+RESERVA POR VALUACIÓN                                                                                   30606                      0.00
+
+SUPERÁVIT POR REVALUACIÓN DE INVERSIONES                                                                30607                 51516.6
+
+RESULTADOS DEL EJERCICIO                                                                                  307               440017.09
+
+GANANCIA NETA DEL PERIODO                                                                               30701               440017.09
+
+(-) PÉRDIDA NETA DEL PERIODO                                                                            30702                      0.00
+
+PARTICIPACIÓN CONTROLADORA                                                                                 31                      0.00
+                                                                  ESTADO DE SITUACIÓN FINANCIERA
+                                                        CUENTA                                                                     CÓDIGO                   VALOR (En USD$)
+
+ REPRESENTANTE(S) LEGAL(ES)                                                                    CONTADOR
+                                                                                              MOLINA NIETO MYRIAM DEL CARMEN
+ORTIZ ALDAZ LUIS ANIBAL
+ 0400627071                                                                                   1
+
+                                                                                              null
+
+
+                                                                    DECLARACIÓN DE RESPONSABILIDAD
+
+En mi calidad de Representante Legal declaro voluntariamente bajo juramento y debidamente apercibido de las penas de perjurio, que la información relativa a los estados
+financieros, así como los anexos remitidos a la Superintendencia de Compañías, Valores y Seguros, a través del formulario que antecede, es exacta, veraz y fiel a la consignada
+en los registros y libros sociales y contables de la compañía, al cierre del ejercicio fiscal.
+
+En tal virtud, me hago civil, penal y administrativamente responsable, de cumplir con las obligaciones derivadas del cargo que ejerzo, entre ellas, la de enviar, dentro del primer
+cuatrimestre de cada año, la información de la que habla el artículo 20 de la Ley de Compañías, de forma íntegra.
+
+Dicho esto, esta Superintendencia no tiene responsabilidad por la exactitud, veracidad, fidelidad ni error del contenido de la información que, por este medio, reconozco que,
+conforme a la ley, soy responsable de comunicar inmediatamente de las inconsistencias o errores que se hubieren identificado.
+
+Asimismo, declaro además que conozco el contenido y alcance, entre otras, de las siguientes normas:
+
+Ley de Compañías:
+
+"Art. 25.- Si el Superintendente no recibiere oportunamente los documentos a que se refieren los artículos anteriores, o si aquellos no contuvieren todos los datos requeridos,
+impondrá al representante legal de la compañía remisa una multa de conformidad con el Art. 457 de esta Ley, salvo que antes del vencimiento del plazo se hubiere obtenido del
+Superintendente la prórroga respectiva, por haberse comprobado la imposibilidad de presentar oportunamente dichos documentos y datos.
+
+La multa podrá repetirse hasta el debido cumplimiento de la obligación exigida.
+
+El Superintendente podrá exigir, de oficio o a petición de los socios o accionistas de la compañía, la presentación de los estados financieros y de cualquier documentación
+contable que fuere necesaria para determinar la actual situación financiera de una compañía sujeta a su vigilancia. Estos estados financieros deberán ser entregados dentro de
+los quince días siguientes al mandato del Superintendente, bajo las mismas sanciones previstas en los incisos anteriores, salvo que la compañía, por razones justificadas,
+hubiere obtenido prórroga del plazo.
+
+Los socios o accionistas tendrán el derecho de solicitar al organismo de control, en cualquier tiempo, el libre y oportuno acceso a la información financiera y demás documentos
+de la compañía. Para tales efectos, se procederá de acuerdo con el inciso anterior".
+
+"Art.- 460.- La compañía que proporcione deliberada y dolosamente información falsa, maliciosa o contraria a la presente ley, será sancionada por el Superintendente de
+Compañías con una multa de 50 salarios básicos unificados para los trabajadores del sector privado, cada vez, sin perjuicio de las correspondientes responsabilidades
+administrativas, civiles o penales a que hubiere lugar.
+
+La compañía que proporcione por error o culpa información falsa o contraria a la presente ley, será sancionada por el Superintendente de Compañías con una multa de hasta 20
+Remuneraciones Básicas Unificadas cada vez, sin perjuicio de las correspondientes responsabilidades administrativas, civiles o penales a que hubiere lugar. (…)"
+
+Código Orgánico Integral Penal:
+
+"Art. 270.- Perjurio y falso testimonio.- La persona que, al declarar, confesar, informar o traducir ante o a (sic) autoridad competente, falte a la verdad bajo juramento, cometa
+perjurio, será sancionada con pena privativa de libertad de tres a cinco años; cuando lo hace sin juramento, cometa falso testimonio, será sancionada con pena privativa de
+libertad de uno a tres años.
+
+De igual modo, se comete perjurio cuando a sabiendas se ha faltado a la verdad en declaraciones patrimoniales juramentadas o juradas hechas ante Notario Público
+
+Si el perjurio se comete en causa penal, será sancionada con pena privativa de libertad de siete a diez años.
+
+Si el falso testimonio se comete en causa penal, será sancionada con pena privativa de libertad de cinco a siete años.
+
+Se exceptúan los casos de versiones y testimonio de la o el sospechoso o de la o el procesado, tanto en la fase preprocesal, como en el proceso penal"
+
+
+
+
+SUPERINTENDENCIA DE COMPAÑÍAS, VALORES Y SEGUROS
+
+CERTIFICO Que el presente balance ha sido enviado electrónicamente por el Representante Legal en virtud de una Declaración de Responsabilidad
+firmada por éste que obvia las firmas autógrafas. Esta copia es fiel reproducción del documento que consta en
+
