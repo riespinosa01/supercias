@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supercias"
+version = "1.1.0"
+description = "Download Supercias directorio and ranking data, and query a company against parsed EEFF statements."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{name = "Supercias export"}]
+dependencies = [
+  "pandas>=2.2",
+  "openpyxl>=3.1",
+  "requests>=2.31",
+]
+
+[project.scripts]
+supercias = "supercias.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

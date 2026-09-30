@@ -1,0 +1,585 @@
+                                                   RAZÓN SOCIAL             COMPAÑIA DE AUTOMATIZACION INDUSTRIAL EUROINSTRUMENTS INGENIERIA
+
+                                                   DIRECCIÓN                AV. EUGENIO ESPEJO Y RINCON DEL VALLE No. N24-10 BARRIO: MIRAVALLE
+
+                                                   EXPEDIENTE               163112
+
+                                                   RUC                      1792209366001
+
+                                                   AÑO                      2024
+
+                                                   FORMULARIO               SCV.NIIF.163112.2024.1
+
+                                                          ESTADO DE RESULTADO INTEGRAL
+                                                 CUENTA                                                           CÓDIGO                 VALOR (En USD$)
+
+INGRESOS DE ACTIVIDADES ORDINARIAS                                                                                              401                4211877.58
+
+VENTA DE BIENES                                                                                                               40101                3685078.53
+
+PRESTACION DE SERVICIOS                                                                                                       40102                 499229.22
+
+INGRESOS POR ASESORÍA                                                                                                       4010201                        0.00
+
+INGRESOS POR ESTRUCTURACIÓN DE OFERTA PÚBLICA DE VALORES                                                                    4010202                        0.00
+
+INGRESOS POR ESTRUCTURACIÓN DE NEGOCIOS FIDUCIARIOS                                                                         4010203                        0.00
+
+OTROS                                                                                                                       4010204                 499229.22
+
+CONTRATOS DE CONSTRUCCION                                                                                                     40103                        0.00
+
+SUBVENCIONES DEL GOBIERNO                                                                                                     40104                        0.00
+
+REGALÍAS                                                                                                                      40105                        0.00
+
+INTERESES                                                                                                                     40106                  27569.83
+
+INTERESES GENERADOS POR VENTAS A CREDITO                                                                                    4010601                        0.00
+
+INTERESES Y RENDIMIENTOS FINANCIEROS                                                                                        4010602                  22197.07
+
+OTROS INTERESES GENERADOS                                                                                                   4010603                   5372.76
+
+DIVIDENDOS                                                                                                                    40107                        0.00
+
+GANANCIA POR MEDICION A VALOR RAZONABLE DE ACTIVOS BIOLOGICOS                                                                 40108                        0.00
+
+INGRESOS POR COMISIONES, PRESTACIÓN DE SERVICIOS, CUSTODIA, REGISTRO, COMPENSACIÓN Y LIQUIDACIÓN                              40109                        0.00
+
+COMISIONES GANADAS POR INTERMEDIACIÓN DE VALORES                                                                            4010901                        0.00
+
+POR OPERACIONES BURSATILES                                                                                                 401090101                       0.00
+
+POR CONTRATOS DE UNDERWRITING                                                                                              401090103                       0.00
+
+POR COMISIÓN EN OPERACIONES                                                                                                401090104                       0.00
+
+POR INSCRIPCIONES                                                                                                          401090105                       0.00
+
+POR MANTENIMIENTO DE INSCRIPCIÓN                                                                                           401090106                       0.00
+
+POR PRESTACIÓN DE SERVICIOS DE ADMINISTRACIÓN Y MANEJO                                                                      4010902                        0.00
+
+PORTAFOLIO DE TERCEROS                                                                                                     401090201                       0.00
+
+FONDOS ADMINISTRADOS                                                                                                       401090202                       0.00
+
+FONDOS COLECTIVOS                                                                                                          401090203                       0.00
+
+TITULARIZACIÓN                                                                                                             401090204                       0.00
+
+FIDEICOMISOS MERCANTILES                                                                                                   401090205                       0.00
+
+ENCARGOS FIDUCIARIOS                                                                                                       401090206                       0.00
+
+POR CALIFICACION DE RIESGO                                                                                                 401090207                       0.00
+
+POR REPRESENTACION DE OBLIGACIONISTAS                                                                                      401090208                       0.00
+
+CUSTODIA, REGISTRO, COMPENSACIÓN Y LIQUIDACIÓN                                                                              4010903                        0.00
+
+CUSTODIA VALORES MATERIALIZADOS                                                                                            401090301                       0.00
+
+CUSTODIA VALORES DESMATERIALIZADOS                                                                                         401090302                       0.00
+
+COMPENSACIÓN Y LIQUIDACIÓN DE VALORES                                                                                      401090303                       0.00
+
+OTROS                                                                                                                      401090304                       0.00
+
+INGRESOS FINANCIEROS                                                                                                          40110                        0.00
+
+DIVIDENDOS                                                                                                                  4011001                        0.00
+
+INTERESES FINANCIEROS                                                                                                       4011002                        0.00
+
+GANANCIA EN INVERSIONES EN ASOCIADAS / SUBSIDIARIAS Y OTRAS                                                                 4011003                        0.00
+
+VALUACION DE INSTRUMENTOS FINANCIEROS A VALOR RAZONABLE CON CAMBIO EN RESULTADOS                                            4011004                        0.00
+
+GANANCIA EN VENTA DE TITULOS VALORES                                                                                        4011005                        0.00
+
+OTROS INGRESOS FINANCIEROS                                                                                                  4011006                        0.00
+
+(-) DESCUENTO EN VENTAS                                                                                                       40112                        0.00
+
+(-) DEVOLUCIONES EN VENTAS                                                                                                    40113                        0.00
+
+(-) BONIFICACIÓN EN PRODUCTO                                                                                                  40114                        0.00
+
+(-) OTRAS REBAJAS COMERCIALES                                                                                                 40115                        0.00
+
+UTILIDAD EN CAMBIO                                                                                                            40116                        0.00
+                                                            ESTADO DE RESULTADO INTEGRAL
+                                                  CUENTA                                   CÓDIGO             VALOR (En USD$)
+
+GANANCIA BRUTA                                                                                         402              1746311.91
+
+OTROS INGRESOS                                                                                         403                40661.49
+
+GANANCIA EN VENTA DE PROPIEDAD, PLANTA Y EQUIPO                                                      40301                       0.00
+
+GANANCIA EN VENTA DE ACTIVOS BIOLÓGICOS                                                              40302                       0.00
+
+OTROS                                                                                                40303                40661.49
+
+COSTO DE VENTAS Y PRODUCCIÓN                                                                           501              2465565.67
+
+MATERIALES UTILIZADOS O PRODUCTOS VENDIDOS                                                           50101              2216597.69
+
+(+) INVENTARIO INICIAL DE BIENES NO PRODUCIDOS POR LA COMPAÑIA                                      5010101              420634.66
+
+(+) COMPRAS NETAS LOCALES DE BIENES NO PRODUCIDOS POR LA COMPAÑIA                                   5010102                8466.72
+
+(+) IMPORTACIONES DE BIENES NO PRODUCIDOS POR LA COMPAÑIA                                           5010103             2121833.89
+
+(-) INVENTARIO FINAL DE BIENES NO PRODUCIDOS POR LA COMPAÑIA                                        5010104                      0.00
+
+(+) INVENTARIO INICIAL DE MATERIA PRIMA                                                             5010105                      0.00
+
+(+) COMPRAS NETAS LOCALES DE MATERIA PRIMA                                                          5010106                      0.00
+
+(+) IMPORTACIONES DE MATERIA PRIMA                                                                  5010107                      0.00
+
+(-) INVENTARIO FINAL DE MATERIA PRIMA                                                               5010108                      0.00
+
+(+) INVENTARIO INICIAL DE PRODUCTOS EN PROCESO                                                      5010109                      0.00
+
+(-) INVENTARIO FINAL DE PRODUCTOS EN PROCESO                                                        5010110                      0.00
+
+(+) INVENTARIO INICIAL PRODUCTOS TERMINADOS                                                         5010111                      0.00
+
+(-) INVENTARIO FINAL DE PRODUCTOS TERMINADOS                                                        5010112              -334337.58
+
+(+) MANO DE OBRA DIRECTA                                                                             50102               185861.72
+
+SUELDOS Y BENEFICIOS SOCIALES                                                                       5010201              126057.51
+
+GASTOS PLANES DE BENEFICIOS A EMPLEADOS                                                             5010202               59804.21
+
+(+) MANO DE OBRA INDIRECTA                                                                           50103                       0.00
+
+SUELDOS Y BENEFICIOS SOCIALES                                                                       5010301                      0.00
+
+GASTO PLANES DE BENEFICIOS A EMPLEADOS                                                              5010302                      0.00
+
+(+) OTROS COSTOS INDIRECTOS DE FABRICACION                                                           50104                60197.26
+
+DEPRECIACIÓN PROPIEDADES, PLANTA Y EQUIPO                                                           5010401                 717.77
+
+DETERIORO O PERDIDAS DE ACTIVOS BIOLOGICOS                                                          5010402                      0.00
+
+DETERIORO DE PROPIEDAD, PLANTA Y EQUIPO                                                             5010403                      0.00
+
+EFECTO VALOR NETO DE REALIZACION DE INVENTARIOS                                                     5010404                      0.00
+
+GASTO POR GARANTIAS EN VENTA DE PRODUCTOS O SERVICIOS                                               5010405                      0.00
+
+MANTENIMIENTO Y REPARACIONES                                                                        5010406               39018.57
+
+SUMINISTROS MATERIALES Y REPUESTOS                                                                  5010407                 1958.9
+
+OTROS COSTOS DE PRODUCCIÓN                                                                          5010408               18502.02
+
+COSTOS DE CONTRATOS DE CONSTRUCCIONES                                                                50105                       2909
+
+COSTOS DE ACUERDO A PORCENTAJES O GRADOS DE TERMINACIÓN                                             5010501                      2909
+
+GASTOS                                                                                                 502              1084384.53
+
+GASTOS DE VENTA                                                                                      50201              1020458.29
+
+SUELDOS, SALARIOS Y DEMÁS REMUNERACIONES                                                            5020101               439575.2
+
+APORTES A LA SEGURIDAD SOCIAL (INCLUIDO FONDO DE RESERVA)                                           5020102               65798.68
+
+BENEFICIOS SOCIALES E INDEMNIZACIONES                                                               5020103              108676.88
+
+GASTO PLANES DE BENEFICIOS A EMPLEADOS                                                              5020104               17596.61
+
+HONORARIOS, COMISIONES Y DIETAS A PERSONAS NATURALES                                                5020105              105596.92
+
+REMUNERACIONES A OTROS TRABAJADORES AUTÓNOMOS                                                       5020106                      0.00
+
+HONORARIOS A EXTRANJEROS POR SERVICIOS OCASIONALES                                                  5020107                      0.00
+
+MANTENIMIENTO Y REPARACIONES                                                                        5020108               48829.92
+
+ARRENDAMIENTO                                                                                       5020109                     38280
+
+COMISIONES                                                                                          5020110                      0.00
+
+PROMOCIÓN Y PUBLICIDAD                                                                              5020111               12616.91
+
+COMBUSTIBLES                                                                                        5020112                      0.00
+
+LUBRICANTES                                                                                         5020113                      0.00
+
+SEGUROS Y REASEGUROS (PRIMAS Y CESIONES)                                                            5020114                5838.09
+
+TRANSPORTE                                                                                          5020115               16711.72
+
+GASTOS DE GESTIÓN (AGASAJOS A ACCIONISTAS, TRABAJADORES Y CLIENTES)                                 5020116                1090.33
+
+GASTOS DE VIAJE                                                                                     5020117               65725.28
+                                                            ESTADO DE RESULTADO INTEGRAL
+                                                 CUENTA                                    CÓDIGO               VALOR (En USD$)
+
+AGUA, ENERGÍA, LUZ, Y TELECOMUNICACIONES                                                             5020118                15183.75
+
+NOTARIOS Y REGISTRADORES DE LA PROPIEDAD O MERCANTILES                                               5020119                  271.55
+
+DEPRECIACIONES:                                                                                      5020120                28618.75
+
+PROPIEDADES, PLANTA Y EQUIPO                                                                        502012001               28618.75
+
+PROPIEDADES DE INVERSIÓN                                                                            502012002                     0.00
+
+ACTIVOS POR DERECHO DE USO                                                                          502012003                     0.00
+
+AMORTIZACIONES                                                                                       5020121                14820.35
+
+INTANGIBLES                                                                                         502012101               14820.35
+
+OTROS ACTIVOS                                                                                       502012102                     0.00
+
+GASTO DETERIORO                                                                                      5020122                14638.99
+
+PROPIEDADES, PLANTA Y EQUIPO                                                                        502012201                     0.00
+
+INVENTARIOS                                                                                         502012202                     0.00
+
+INSTRUMENTOS FINANCIEROS                                                                            502012203                     0.00
+
+INTANGIBLES                                                                                         502012204                     0.00
+
+CUENTAS POR COBRAR                                                                                  502012205                     0.00
+
+OTROS ACTIVOS                                                                                       502012206               14638.99
+
+DERECHOS DE USO POR ACTIVOS ARRENDADOS                                                              502012207                     0.00
+
+GASTOS POR CANTIDADES ANORMALES DE UTILIZACION EN EL PROCESO DE PRODUCCIÓN:                          5020123                      0.00
+
+MANO DE OBRA                                                                                        502012301                     0.00
+
+MATERIALES                                                                                          502012302                     0.00
+
+COSTOS DE PRODUCCION                                                                                502012303                     0.00
+
+GASTO POR REESTRUCTURACION                                                                           5020124                      0.00
+
+VALOR NETO DE REALIZACION DE INVENTARIOS                                                             5020125                      0.00
+
+GASTO IMPUESTO A LA RENTA (ACTIVOS Y PASIVOS DIFERIDOS)                                              5020126                      0.00
+
+SUMINISTROS Y MATERIALES                                                                             5020127                 16271.2
+
+OTROS GASTOS                                                                                         5020128                 4317.16
+
+GASTOS ADMINISTRATIVOS                                                                                 50202                 61525.9
+
+SUELDOS, SALARIOS Y DEMÁS REMUNERACIONES                                                             5020201                      0.00
+
+APORTES A LA SEGURIDAD SOCIAL (INCLUIDO FONDO DE RESERVA)                                            5020202                21640.27
+
+BENEFICIOS SOCIALES E INDEMNIZACIONES                                                                5020203                 9806.02
+
+GASTO PLANES DE BENEFICIOS A EMPLEADOS                                                               5020204                 3925.24
+
+HONORARIOS, COMISIONES Y DIETAS A PERSONAS NATURALES                                                 5020205                      4800
+
+REMUNERACIONES A OTROS TRABAJADORES AUTÓNOMOS                                                        5020206                      0.00
+
+HONORARIOS A EXTRANJEROS POR SERVICIOS OCASIONALES                                                   5020207                      0.00
+
+MANTENIMIENTO Y REPARACIONES                                                                         5020208                      266
+
+ARRENDAMIENTO                                                                                        5020209                      0.00
+
+COMISIONES                                                                                           5020210                      0.00
+
+PROMOCIÓN Y PUBLICIDAD                                                                               5020211                      0.00
+
+COMBUSTIBLES                                                                                         5020212                      0.00
+
+LUBRICANTES                                                                                          5020213                      0.00
+
+SEGUROS Y REASEGUROS (PRIMAS Y CESIONES)                                                             5020214                      0.00
+
+TRANSPORTE                                                                                           5020215                      0.00
+
+GASTOS DE GESTIÓN (AGASAJOS A ACCIONISTAS, TRABAJADORES Y CLIENTES)                                  5020216                 2892.11
+
+GASTOS DE VIAJE                                                                                      5020217                 1820.52
+
+AGUA, ENERGÍA, LUZ, Y TELECOMUNICACIONES                                                             5020218                      0.00
+
+NOTARIOS Y REGISTRADORES DE LA PROPIEDAD O MERCANTILES                                               5020219                      0.00
+
+IMPUESTOS, CONTRIBUCIONES Y OTROS                                                                    5020220                 9642.97
+
+DEPRECIACIONES                                                                                       5020221                      0.00
+
+PROPIEDADES, PLANTA Y EQUIPO                                                                        502022101                     0.00
+
+PROPIEDADES DE INVERSIÓN                                                                            502022102                     0.00
+
+ACTIVOS POR DERECHO DE USO                                                                          502022103                     0.00
+
+AMORTIZACIONES                                                                                       5020222                      0.00
+
+INTANGIBLES                                                                                         502022201                     0.00
+
+OTROS ACTIVOS                                                                                       502022202                     0.00
+
+GASTO DETERIORO:                                                                                     5020223                      0.00
+                                                          ESTADO DE RESULTADO INTEGRAL
+                                                 CUENTA                                  CÓDIGO               VALOR (En USD$)
+
+PROPIEDADES, PLANTA Y EQUIPO                                                                      502022301                     0.00
+
+INVENTARIOS                                                                                       502022302                     0.00
+
+INSTRUMENTOS FINANCIEROS                                                                          502022303                     0.00
+
+INTANGIBLES                                                                                       502022304                     0.00
+
+CUENTAS POR COBRAR                                                                                502022305                     0.00
+
+OTROS ACTIVOS                                                                                     502022306                     0.00
+
+DERECHOS DE USO POR ACTIVOS ARRENDADOS                                                            502022307                     0.00
+
+GASTOS POR CANTIDADES ANORMALES DE UTILIZACION EN EL PROCESO DE PRODUCCIÓN                         5020224                      0.00
+
+MANO DE OBRA                                                                                      502022401                     0.00
+
+MATERIALES                                                                                        502022402                     0.00
+
+COSTOS DE PRODUCCION                                                                              502022403                     0.00
+
+GASTO POR REESTRUCTURACION                                                                         5020225                      0.00
+
+VALOR NETO DE REALIZACION DE INVENTARIOS                                                           5020226                      0.00
+
+GASTO IMPUESTO A LA RENTA (ACTIVOS Y PASIVOS DIFERIDOS)                                            5020227                      0.00
+
+SUMINISTROS Y MATERIALES                                                                           5020228                      0.00
+
+OTROS GASTOS                                                                                       5020229                 6732.77
+
+GASTOS FINANCIEROS                                                                                   50203                 2400.34
+
+INTERESES                                                                                          5020301                      0.00
+
+INTERESES POR PRESTAMOS                                                                           502030101                     0.00
+
+INTERESES POR ARRENDAMIENTOS                                                                      502030102                     0.00
+
+INTERESES POR VALORES EMITIDOS                                                                    502030103                     0.00
+
+OTROS INTERESES                                                                                   502030104                     0.00
+
+COMISIONES                                                                                         5020302                 2400.34
+
+COMISIONES PAGADAS POR INTERMEDIACIÓN DE VALORES:                                                 502030201                     0.00
+
+POR OPERACIONES BURSATILES                                                                   50203020101                        0.00
+
+POR CONTRATOS DE UNDERWRITING                                                                50203020103                        0.00
+
+POR COMISIÓN EN OPERACIONES                                                                  50203020104                   2400.34
+
+POR INSCRIPCIONES                                                                            50203020105                        0.00
+
+POR MANTENIMIENTO DE INSCRIPCIÓN                                                             50203020106                        0.00
+
+POR PRESTACIÓN DE SERVICIOS DE ADMINISTRACIÓN Y MANEJO                                             5020303                      0.00
+
+PORTAFOLIO DE TERCEROS                                                                            502030301                     0.00
+
+FONDOS ADMINISTRADOS                                                                              502030302                     0.00
+
+FONDOS COLECTIVOS                                                                                 502030303                     0.00
+
+TITULARIZACIÓN                                                                                    502030304                     0.00
+
+FIDEICOMISOS MERCANTILES                                                                          502030305                     0.00
+
+ENCARGOS FIDUCIARIOS                                                                              502030306                     0.00
+
+POR CALIFICACION DE RIESGO                                                                        502030307                     0.00
+
+POR REPRESENTACION DE OBLIGACIONISTAS                                                             502030308                     0.00
+
+CUSTODIA, REGISTRO, COMPENSACIÓN Y LIQUIDACIÓN                                                     5020304                      0.00
+
+CUSTODIA VALORES MATERIALIZADOS                                                                   502030401                     0.00
+
+CUSTODIA VALORES DESMATERIALIZADOS                                                                502030402                     0.00
+
+COMPENSACIÓN Y LIQUIDACIÓN DE VALORES                                                             502030403                     0.00
+
+OTROS                                                                                             502030404                     0.00
+
+GASTOS POR SERVICIOS DE ASESORIA Y ESTRUCTURACION                                                  5020305                      0.00
+
+POR ASESORÍA                                                                                      502030501                     0.00
+
+POR ESTRUCTURACIÓN DE OFERTA PÚBLICA DE VALORES                                                   502030502                     0.00
+
+POR ESTRUCTURACIÓN DE NEGOCIOS FIDUCIARIOS                                                        502030503                     0.00
+
+OTROS                                                                                             502030504                     0.00
+
+GASTOS DE FINANCIAMIENTO DE ACTIVOS                                                                5020306                      0.00
+
+DIFERENCIA EN CAMBIO                                                                               5020307                      0.00
+
+VALUACION DE INSTRUMENTOS FINANCIEROS A VALOR RAZONABLE CON CAMBIO EN RESULTADOS                   5020308                      0.00
+
+PERDIDA EN VENTA DE TITULOS VALORES                                                                5020309                      0.00
+
+PERDIDA EN VENTA DE PROPIEDAD, PLANTA Y EQUIPO                                                     5020310                      0.00
+
+PERDIDA EN VENTA DE ACTIVOS BIOLOGICOS                                                             5020311                      0.00
+
+OTROS GASTOS FINANCIEROS                                                                           5020312                      0.00
+                                                                  ESTADO DE RESULTADO INTEGRAL
+                                                        CUENTA                                                                     CÓDIGO                   VALOR (En USD$)
+
+OTROS GASTOS                                                                                                                                   50204                          0.00
+
+PERDIDA EN INVERSIONES EN ASOCIADAS / SUBSIDIARIAS Y OTRAS                                                                                   5020401                          0.00
+
+OTROS                                                                                                                                        5020402                          0.00
+
+GANANCIA (PÉRDIDA) ANTES DE 15% A TRABAJADORES E IMPUESTO A LA RENTA DE OPERACIONES CONTINUADAS                                                  600                     702588.87
+
+15% PARTICIPACIÓN TRABAJADORES                                                                                                                   601                     105388.33
+
+GANANCIA (PÉRDIDA) ANTES DE IMPUESTOS                                                                                                            602                     597200.54
+
+IMPUESTO A LA RENTA CAUSADO                                                                                                                      603                     157183.45
+
+GANANCIA (PÉRDIDA) DE OPERACIONES CONTINUADAS ANTES DEL IMPUESTO DIFERIDO                                                                        604                     440017.09
+
+(-) GASTO POR IMPUESTO DIFERIDO                                                                                                                  605                          0.00
+
+(+) INGRESO POR IMPUESTO DIFERIDO                                                                                                                606                          0.00
+
+GANANCIA (PERDIDA) DE OPERACIONES CONTINUADAS                                                                                                    607                     440017.09
+
+INGRESOS POR OPERACIONES DISCONTINUADAS                                                                                                          700                          0.00
+
+GASTOS POR OPERACIONES DISCONTINUADAS                                                                                                            701                          0.00
+
+GANANCIA (PÉRDIDA) ANTES DE 15% A TRABAJADORES E IMPUESTO A LA RENTA DE OPERACIONES DISCONTINUADAS                                               702                          0.00
+
+15% PARTICIPACIÓN TRABAJADORES                                                                                                                   703                          0.00
+
+GANANCIA (PÉRDIDA) ANTES DE IMPUESTOS DE OPERACIONES DISCONTINUADAS                                                                              704                          0.00
+
+IMPUESTO A LA RENTA CAUSADO                                                                                                                      705                          0.00
+
+GANANCIA (PÉRDIDA) DE OPERACIONES DISCONTINUADAS                                                                                                 706                          0.00
+
+GANANCIA (PÉRDIDA) NETA DEL PERIODO                                                                                                              707                     440017.09
+
+OTRO RESULTADO INTEGRAL                                                                                                                          800                          0.00
+
+COMPONENTES DEL OTRO RESULTADO INTEGRAL                                                                                                        80001                          0.00
+
+DIFERENCIA DE CAMBIO POR CONVERSIÓN                                                                                                            80002                          0.00
+
+VALUACIÓN DE ACTIVOS FINANCIEROS A VALOR RAZONABLE CON CAMBIO EN OTRO RESULTADO INTEGRAL                                                       80003                          0.00
+
+GANANCIAS POR REVALUACIÓN DE PROPIEDADES, PLANTA Y EQUIPO                                                                                      80004                          0.00
+
+GANANCIAS (PÉRDIDAS) ACTUARIALES POR PLANES DE BENEFICIOS DEFINIDOS                                                                            80005                          0.00
+
+REVERSION DEL DETERIORO (PÉRDIDA POR DETERIORO) DE UN ACTIVO REVALUADO                                                                         80006                          0.00
+
+PARTICIPACION DE OTRO RESULTADO INTEGRAL DE ASOCIADAS                                                                                          80007                          0.00
+
+IMPUESTO SOBRE LAS GANANCIAS RELATIVO A OTRO RESULTADO INTEGRAL                                                                                80008                          0.00
+
+OTROS (DETALLAR EN NOTAS)                                                                                                                      80009                          0.00
+
+RESULTADO INTEGRAL TOTAL DEL AÑO                                                                                                                 801                          0.00
+
+PROPIETARIOS DE LA CONTROLADORA                                                                                                                80101                          0.00
+
+PARTICIPACION NO CONTROLADORA (INFORMATIVO)                                                                                                    80102                          0.00
+
+ REPRESENTANTE(S) LEGAL(ES)                                                                    CONTADOR
+
+ORTIZ ALDAZ LUIS ANIBAL                                                                       MOLINA NIETO MYRIAM DEL CARMEN
+
+0400627071                                                                                    1
+
+                                                                                              null
+
+
+                                                                    DECLARACIÓN DE RESPONSABILIDAD
+
+En mi calidad de Representante Legal declaro voluntariamente bajo juramento y debidamente apercibido de las penas de perjurio, que la información relativa a los estados
+financieros, así como los anexos remitidos a la Superintendencia de Compañías, Valores y Seguros, a través del formulario que antecede, es exacta, veraz y fiel a la consignada
+en los registros y libros sociales y contables de la compañía, al cierre del ejercicio fiscal.
+
+En tal virtud, me hago civil, penal y administrativamente responsable, de cumplir con las obligaciones derivadas del cargo que ejerzo, entre ellas, la de enviar, dentro del primer
+cuatrimestre de cada año, la información de la que habla el artículo 20 de la Ley de Compañías, de forma íntegra.
+
+Dicho esto, esta Superintendencia no tiene responsabilidad por la exactitud, veracidad, fidelidad ni error del contenido de la información que, por este medio, reconozco que,
+conforme a la ley, soy responsable de comunicar inmediatamente de las inconsistencias o errores que se hubieren identificado.
+
+Asimismo, declaro además que conozco el contenido y alcance, entre otras, de las siguientes normas:
+
+Ley de Compañías:
+
+"Art. 25.- Si el Superintendente no recibiere oportunamente los documentos a que se refieren los artículos anteriores, o si aquellos no contuvieren todos los datos requeridos,
+impondrá al representante legal de la compañía remisa una multa de conformidad con el Art. 457 de esta Ley, salvo que antes del vencimiento del plazo se hubiere obtenido del
+Superintendente la prórroga respectiva, por haberse comprobado la imposibilidad de presentar oportunamente dichos documentos y datos.
+
+La multa podrá repetirse hasta el debido cumplimiento de la obligación exigida.
+
+El Superintendente podrá exigir, de oficio o a petición de los socios o accionistas de la compañía, la presentación de los estados financieros y de cualquier documentación
+contable que fuere necesaria para determinar la actual situación financiera de una compañía sujeta a su vigilancia. Estos estados financieros deberán ser entregados dentro de
+los quince días siguientes al mandato del Superintendente, bajo las mismas sanciones previstas en los incisos anteriores, salvo que la compañía, por razones justificadas,
+hubiere obtenido prórroga del plazo.
+
+Los socios o accionistas tendrán el derecho de solicitar al organismo de control, en cualquier tiempo, el libre y oportuno acceso a la información financiera y demás documentos
+de la compañía. Para tales efectos, se procederá de acuerdo con el inciso anterior".
+                                                                  ESTADO DE RESULTADO INTEGRAL
+                                                       CUENTA                                                                     CÓDIGO                   VALOR (En USD$)
+
+
+"Art.- 460.- La compañía que proporcione deliberada y dolosamente información falsa, maliciosa o contraria a la presente ley, será sancionada por el Superintendente de
+Compañías con una multa de 50 salarios básicos unificados para los trabajadores del sector privado, cada vez, sin perjuicio de las correspondientes responsabilidades
+administrativas, civiles o penales a que hubiere lugar.
+
+La compañía que proporcione por error o culpa información falsa o contraria a la presente ley, será sancionada por el Superintendente de Compañías con una multa de hasta 20
+Remuneraciones Básicas Unificadas cada vez, sin perjuicio de las correspondientes responsabilidades administrativas, civiles o penales a que hubiere lugar. (…)"
+
+Código Orgánico Integral Penal:
+
+"Art. 270.- Perjurio y falso testimonio.- La persona que, al declarar, confesar, informar o traducir ante o a (sic) autoridad competente, falte a la verdad bajo juramento, cometa
+perjurio, será sancionada con pena privativa de libertad de tres a cinco años; cuando lo hace sin juramento, cometa falso testimonio, será sancionada con pena privativa de
+libertad de uno a tres años.
+
+De igual modo, se comete perjurio cuando a sabiendas se ha faltado a la verdad en declaraciones patrimoniales juramentadas o juradas hechas ante Notario Público
+
+Si el perjurio se comete en causa penal, será sancionada con pena privativa de libertad de siete a diez años.
+
+Si el falso testimonio se comete en causa penal, será sancionada con pena privativa de libertad de cinco a siete años.
+
+Se exceptúan los casos de versiones y testimonio de la o el sospechoso o de la o el procesado, tanto en la fase preprocesal, como en el proceso penal"
+
+
+
+SUPERINTENDENCIA DE COMPAÑÍAS, VALORES Y SEGUROS
+
+CERTIFICO Que el presente balance ha sido enviado electrónicamente por el Representante Legal en virtud de una Declaración de Responsabilidad
+firmada por éste que obvia las firmas autógrafas. Esta copia es fiel reproducción del documento que consta en
+
